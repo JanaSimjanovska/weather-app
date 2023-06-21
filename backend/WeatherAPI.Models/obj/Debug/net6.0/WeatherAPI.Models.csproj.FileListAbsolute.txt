@@ -1,0 +1,12 @@
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\bin\Debug\net6.0\WeatherAPI.Models.deps.json
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\bin\Debug\net6.0\WeatherAPI.Models.dll
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\bin\Debug\net6.0\WeatherAPI.Models.pdb
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.AssemblyInfo.cs
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.dll
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\refint\WeatherAPI.Models.dll
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\WeatherAPI.Models.pdb
+C:\Users\Jana\Desktop\weather-app\backend\WeatherAPI.Models\obj\Debug\net6.0\ref\WeatherAPI.Models.dll

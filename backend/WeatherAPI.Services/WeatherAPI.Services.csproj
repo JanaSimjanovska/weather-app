@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.31.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.31.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherAPI.DataAccess\WeatherAPI.DataAccess.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Domain\WeatherAPI.Domain.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Mappers\WeatherAPI.Mappers.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Models\WeatherAPI.Models.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Shared\WeatherAPI.Shared.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Validators\WeatherAPI.Validators.csproj" />
+  </ItemGroup>
+
+</Project>
